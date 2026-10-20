@@ -1,0 +1,6 @@
+{
+  "name": "System UI Plugin (iOS 18)",
+  "description": "Xiaomi MIUI 14 System UI Plugin update (iOS 18 Control Center) for Redmi Note 9S with zero bootloop risk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
